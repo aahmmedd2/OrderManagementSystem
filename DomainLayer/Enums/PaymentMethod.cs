@@ -8,7 +8,7 @@ namespace DomainLayer.Enums
 {
     public enum PaymentMethod
     {
-        Cash = 0,
+        Cash = 1,
         CreditCard,
         PayPal,
     }

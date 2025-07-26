@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DomainLayer.Enums
+namespace Services
 {
-    public enum Roles
+    public class AssemblyReferenceProfiles
     {
-        Admin = 1,
-        Customer = 2,
     }
 }

@@ -8,8 +8,8 @@ namespace DomainLayer.Enums
 {
     public enum OrderStatus
     {
-        Pending = 0,
-        PaymentReceived = 1,
-        PaymentFailed = 2
+        Pending = 1,
+        PaymentReceived = 2,
+        PaymentFailed = 3,
     }
 }
